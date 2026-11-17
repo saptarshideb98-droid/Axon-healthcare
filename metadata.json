@@ -1,0 +1,6 @@
+{
+  "name": "AXON Healthcare — Pharmacy & Clinical Diagnostics",
+  "description": "Official web portal for AXON Healthcare on Lala Road, near S.K. Roy Civil Hospital, Hailakandi, Assam. Book specialist doctor consultations, schedule Digital X-Ray, 3D Sonography, Blood Tests, and ECG diagnostics, and order prescription medicines.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
